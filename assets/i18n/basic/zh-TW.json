@@ -1,9 +1,9 @@
 {
   "NAV": {
     "INDEX": "部落格",
-    "RSS": "訂閱",
-    "SEARCH": "搜尋",
-    "ABOUT": "關於"
+    "ABOUT": "關於",
+    "NOW": "近况",
+    "SEARCH": "搜尋"
   },
   "PAGINATION": {
     "PREV": "上一頁",

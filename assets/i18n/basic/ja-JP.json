@@ -1,9 +1,9 @@
 {
   "NAV": {
     "INDEX": "ブログ",
-    "RSS": "購読",
-    "SEARCH": "検索",
-    "ABOUT": "このサイトについて"
+    "ABOUT": "このサイトについて",
+    "NOW": "今",
+    "SEARCH": "検索"
   },
   "PAGINATION": {
     "PREV": "前ページ",
